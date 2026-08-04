@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term
+
+User-agent: Googlebot
+Allow: /
+
+# Основные карты сайта: калькулятор лежит в подпапке dota-fantasy-league-2026
+Sitemap: https://spectralxxx.github.io/dota-fantasy-league-2026/sitemap.xml
+Sitemap: https://spectralxxx.github.io/sitemap.xml
+
+Host: spectralxxx.github.io
